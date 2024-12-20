@@ -1,5 +1,5 @@
 # Association Rules Mining Project
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Burton-David/discovering-purchase-patterns-in-retail-data/HEAD?urlpath=https%3A%2F%2Fgithub.com%2FBurton-David%2Fdiscovering-purchase-patterns-in-retail-data%2Fblob%2Fmain%2Fnotebooks%2Fassociation_rules_analysis.ipynb)
 ## Overview
 This project demonstrates the application of Association Rules Mining techniques to discover interesting patterns in retail purchase data. Using the Groceries Market Basket dataset, we explore customer purchase behavior and identify meaningful product associations that can drive business value.
 
